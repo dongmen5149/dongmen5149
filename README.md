@@ -9,7 +9,7 @@ I'm Junior Frontend Developer using javascript and react 🌱
 ## Tools
 <img src="https://img.shields.io/badge/Redux-purple?logo=Redux"/> <img src="https://img.shields.io/badge/MongoDB-green?logo=MongoDB"/> <img src="https://img.shields.io/badge/Git-gray?logo=Git"/>
 
-## 💬 Ask me about 
+### 💬 Ask me about 
 viewer0127@naver.com
 
 Thank you! 😄
