@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hi there!! 
+I'm Junior Frontend Developer using javascript and react 🌱
 
-<!--
-**dongmen5149/dongmen5149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Skills
+## Platforms & Languages
+<img src="https://img.shields.io/badge/javascript-yellow?logo=Javascript"/> <img src="https://img.shields.io/badge/React-blue?logo=React"/> 
+<img src="https://img.shields.io/badge/Node.js-light green?logo=Node.js"/>
 
-Here are some ideas to get you started:
+## Tools
+<img src="https://img.shields.io/badge/Redux-purple?logo=Redux"/> <img src="https://img.shields.io/badge/MongoDB-green?logo=MongoDB"/> <img src="https://img.shields.io/badge/Git-gray?logo=Git"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Ask me about 
+viewer0127@naver.com
+
+Thank you! 😄
