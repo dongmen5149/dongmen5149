@@ -3,7 +3,7 @@ I'm Junior Frontend Developer using javascript and react 🌱
 
 # ⚡ Skills
 ## Platforms & Languages
-<img src="https://img.shields.io/badge/javascript-yellow?logo=Javascript"/> <img src="https://img.shields.io/badge/React-blue?logo=React"/> 
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=Javascript"/> <img src="https://img.shields.io/badge/React.js-blue?logo=React"/> 
 <img src="https://img.shields.io/badge/Node.js-light green?logo=Node.js"/>
 
 ## Tools
