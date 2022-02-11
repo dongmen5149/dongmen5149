@@ -27,5 +27,5 @@ Thank you! 😄
 ![blog 압축](https://user-images.githubusercontent.com/78216411/153557303-cee96163-430b-48eb-95ca-3ab426a7eaa3.gif)  
 
 ## project 1
-### youtube
+### slack_clone
 ![Slackgif파일](https://user-images.githubusercontent.com/78216411/153557321-0a16fca7-a28a-4a70-a92c-50724584979c.gif)  
